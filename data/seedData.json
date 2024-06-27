@@ -1,0 +1,142 @@
+[
+  {
+    "category": "baby gear",
+    "title": "Stroller",
+    "description": "Lightweight and compact stroller",
+    "start_price": 50,
+    "reserve_price": 100
+  },
+  {
+    "category": "books",
+    "title": "The Great Gatsby",
+    "description": "Classic novel by F. Scott Fitzgerald",
+    "start_price": 5,
+    "reserve_price": 10
+  },
+  {
+    "category": "building & renovation",
+    "title": "Hammer Drill",
+    "description": "High-power hammer drill",
+    "start_price": 30,
+    "reserve_price": 60
+  },
+  {
+    "category": "clothing",
+    "title": "Leather Jacket",
+    "description": "Genuine leather jacket",
+    "start_price": 100,
+    "reserve_price": 200
+  },
+  {
+    "category": "electronics",
+    "title": "Smartphone",
+    "description": "Latest model smartphone",
+    "start_price": 200,
+    "reserve_price": 400
+  },
+  {
+    "category": "health & beauty",
+    "title": "Perfume",
+    "description": "Luxury brand perfume",
+    "start_price": 40,
+    "reserve_price": 80
+  },
+  {
+    "category": "home & living",
+    "title": "Sofa",
+    "description": "Comfortable 3-seater sofa",
+    "start_price": 150,
+    "reserve_price": 300
+  },
+  {
+    "category": "jewellery",
+    "title": "Diamond Ring",
+    "description": "14k gold diamond ring",
+    "start_price": 500,
+    "reserve_price": 1000
+  },
+  {
+    "category": "pets",
+    "title": "Dog Bed",
+    "description": "Large dog bed",
+    "start_price": 20,
+    "reserve_price": 40
+  },
+  {
+    "category": "sports",
+    "title": "Mountain Bike",
+    "description": "Off-road mountain bike",
+    "start_price": 200,
+    "reserve_price": 400
+  },
+  {
+    "category": "toys",
+    "title": "Lego Set",
+    "description": "Advanced building Lego set",
+    "start_price": 30,
+    "reserve_price": 60
+  },
+  {
+    "category": "baby gear",
+    "title": "Car Seat",
+    "description": "Convertible car seat",
+    "start_price": 50,
+    "reserve_price": 100
+  },
+  {
+    "category": "books",
+    "title": "1984",
+    "description": "Dystopian novel by George Orwell",
+    "start_price": 5,
+    "reserve_price": 10
+  },
+  {
+    "category": "building & renovation",
+    "title": "Circular Saw",
+    "description": "Electric circular saw",
+    "start_price": 40,
+    "reserve_price": 80
+  },
+  {
+    "category": "clothing",
+    "title": "Sneakers",
+    "description": "Brand name sneakers",
+    "start_price": 60,
+    "reserve_price": 120
+  },
+  {
+    "category": "electronics",
+    "title": "Laptop",
+    "description": "High-performance laptop",
+    "start_price": 300,
+    "reserve_price": 600
+  },
+  {
+    "category": "health & beauty",
+    "title": "Hair Dryer",
+    "description": "Professional hair dryer",
+    "start_price": 25,
+    "reserve_price": 50
+  },
+  {
+    "category": "home & living",
+    "title": "Dining Table",
+    "description": "Wooden dining table",
+    "start_price": 100,
+    "reserve_price": 200
+  },
+  {
+    "category": "jewellery",
+    "title": "Gold Necklace",
+    "description": "18k gold necklace",
+    "start_price": 150,
+    "reserve_price": 300
+  },
+  {
+    "category": "pets",
+    "title": "Cat Tree",
+    "description": "Multi-level cat tree",
+    "start_price": 30,
+    "reserve_price": 60
+  }
+]

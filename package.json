@@ -1,0 +1,23 @@
+{
+  "name": "auction-cli",
+  "version": "1.0.0",
+  "description": "Auction Item Management CLI Tool",
+  "type": "module",
+  "main": "index.js",
+  "preferGlobal": true,
+  "bin": {
+    "auction-cli": "./commands.js"
+  },
+  "scripts": {
+    "start": "node commands.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^12.1.0",
+    "dotenv": "^16.4.5",
+    "inquirer": "^9.2.23",
+    "mongoose": "^8.4.1"
+  }
+}
